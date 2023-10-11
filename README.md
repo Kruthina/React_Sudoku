@@ -1,1 +1,1 @@
-# React_Sudoku
+# δ Sudoku
